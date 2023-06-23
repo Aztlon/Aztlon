@@ -5,9 +5,9 @@
 - ⚙️ Eventually, I'd like to create my own game engine so I can lead the development of entirely new RPG games based on my favorite fictional universes.
 - 👑 After that, I'll create a game for a universe of my own creation, replete with entirely new languages, cultures, music, nations, history, etc.
 - 😇 But for now I'm just focusing on Avatarverse.
-- 🌱 I currently only know Java and a little bit of Python and R.
+- 🌱 I currently know Java, Python, R, JavaScript, and HTML/CSS.
 - 💞️ If any of the above interests you, please reach out! I'd be happy to bring you onto my team.
-- 📫 The best way to reach me is by messaging me on Discord: `Aztl#0001`
+- 📫 The best way to reach me is by messaging me on Discord: `@aztl`
 
 <!---
 Aztlon/Aztlon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
